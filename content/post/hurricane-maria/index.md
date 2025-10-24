@@ -3,9 +3,7 @@ author = "Yuichi Yazaki"
 title = "ハリケーン・マリアは人災だった。Quartz、AP通信、CPIによるコラボレーティブ・ジャーナリズム"
 slug = "hurricane-maria"
 date = "2019-10-12"
-categories = [
-    "data-journalism"
-]
+categories = ["cases"]
 tags = [
     "",
 ]

@@ -4,9 +4,7 @@ title = "データジャーナリズム　その２　事例と手法から"
 slug = "asahi-journalism-2021-2"
 date = "2021-05-10"
 description = ""
-categories = [
-    "data-journalism"
-]
+categories = ["principles"]
 tags = [
     "",
 ]

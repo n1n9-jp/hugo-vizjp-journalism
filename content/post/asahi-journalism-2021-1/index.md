@@ -4,9 +4,7 @@ title = "データジャーナリズム　その１　定義と歴史を概観�
 slug = "asahi-journalism-2021-1"
 date = "2021-04-09"
 description = ""
-categories = [
-    "data-journalism"
-]
+categories = ["principles"]
 tags = [
     "",
 ]

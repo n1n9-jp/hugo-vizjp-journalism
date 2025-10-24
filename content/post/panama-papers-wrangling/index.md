@@ -3,9 +3,7 @@ author = "Yuichi Yazaki"
 title = "パナマ文書におけるデータの構造化"
 slug = "panama-papers-wrangling"
 date = "2020-05-19"
-categories = [
-    "data-journalism"
-]
+categories = ["cases"]
 tags = [
     ""
 ]

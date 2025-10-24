@@ -3,9 +3,7 @@ author = "Yuichi Yazaki"
 title = "全飛行機の飛行情報からスパイ機を特定したBuzzFeedのデータジャーナリズム"
 slug = "buzzfeed-spyfly"
 date = "2020-05-20"
-categories = [
-    "data-journalism"
-]
+categories = ["cases"]
 tags = [
     "",
 ]

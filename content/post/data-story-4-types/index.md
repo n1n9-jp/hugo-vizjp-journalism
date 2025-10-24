@@ -3,9 +3,7 @@ author = "Yuichi Yazaki"
 title = "データ・ジャーナリズムにおけるデータ・ストーリー 四類型"
 slug = "data-story-4-types"
 date = "2020-10-02"
-categories = [
-    "data-journalism"
-]
+categories = ["principles"]
 tags = [
     "",
 ]

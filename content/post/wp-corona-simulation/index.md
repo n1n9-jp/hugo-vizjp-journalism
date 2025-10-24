@@ -3,9 +3,7 @@ author = "Yuichi Yazaki"
 title = "ワシントン・ポストによる「曲線を平らにする」ための啓蒙記事の制作過程"
 slug = "wp-corona-simulation"
 date = "2020-06-20"
-categories = [
-    "data-journalism"
-]
+categories = ["cases"]
 tags = [
     ""
 ]

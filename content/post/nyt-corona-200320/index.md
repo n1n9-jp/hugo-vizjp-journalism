@@ -3,9 +3,7 @@ author = "Yuichi Yazaki"
 title = "緊急の管理措置なしには、北米でコロナウイルスの圧倒的な広がりが起こってしまう、とNew York Times紙"
 slug = "nyt-corona-200320"
 date = "2020-03-21"
-categories = [
-    "data-journalism"
-]
+categories = ["cases"]
 tags = [
     "",
 ]

@@ -3,9 +3,7 @@ author = "Yuichi Yazaki"
 title = "シグマ・アワード 2021"
 slug = "sigma-awards-2021"
 date = "2021-01-26"
-categories = [
-    "data-journalism"
-]
+categories = ["awards"]
 tags = [
     "",
 ]
