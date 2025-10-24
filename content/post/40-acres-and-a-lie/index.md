@@ -1,6 +1,6 @@
 +++
 author = "Yuichi Yazaki"
-title = "「40 Acres and a Lie」 — 再建期の“約束”を可視化したジャーナリズム  "
+title = "40 Acres and a Lie - 剥奪された再建期の約束を可視化した調査報道"
 slug = "40-acres-and-a-lie"
 date = "2025-10-24"
 categories = [
