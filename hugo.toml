@@ -2,3 +2,31 @@ baseURL = "https://example.com/"
 languageCode = "ja"
 title = "Data Journalism"
 theme = "hugo-theme-stack"
+
+[permalinks]
+  post = "/:slug/"
+  page = "/:slug/"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[[menu.main]]
+  name = "アワード"
+  url = "/categories/awards/"
+  weight = 1
+
+[[menu.main]]
+  name = "事例"
+  url = "/categories/cases/"
+  weight = 2
+
+[[menu.main]]
+  name = "原理原則"
+  url = "/categories/principles/"
+  weight = 3
+
+[[menu.main]]
+  name = "ツール"
+  url = "/categories/tool/"
+  weight = 4
